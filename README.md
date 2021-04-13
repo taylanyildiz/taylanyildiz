@@ -1,4 +1,10 @@
 ### Hi there, Here is What I'm Working On!!👋
+<a href="https://www.linkedin.com/in/taylan-y%C4%B1ld%C4%B1z-02225a158/">
+  <img align="left" alt="Taylan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/taylanyildiz">
+  <img align="left" alt="Taylan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 ![Developer-on-laptop](https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif)
 
 
