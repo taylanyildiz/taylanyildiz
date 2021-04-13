@@ -6,7 +6,7 @@
   <img align="left" alt="Taylan's Linkdein" width="22px" src="https://user-images.githubusercontent.com/37551474/114523788-4b058580-9c4d-11eb-8111-ca9ef400287c.png" />
 </a>
 <a href="https://github.com/taylanyildiz">
-  <img align="left" alt="Taylan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Taylan's Github" width="22px" src="https://user-images.githubusercontent.com/37551474/114523941-76887000-9c4d-11eb-8204-512e1bc200f9.jpg" />
 </a>
 <br/>
 <br/>
