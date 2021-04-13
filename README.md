@@ -8,7 +8,8 @@
 <a href="https://github.com/taylanyildiz">
   <img align="left" alt="Taylan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
+<br/>
+<br/>
 
 - 🔭 I’m currently working on ... Flutter,STM32,PHP
 - 🌱 I’m currently learning ... Flutter-Dart
