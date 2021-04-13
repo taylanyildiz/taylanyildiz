@@ -5,6 +5,7 @@
 <a href="https://github.com/taylanyildiz">
   <img align="left" alt="Taylan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<p/>
 ![Developer-on-laptop](https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif)
 
 
