@@ -1,5 +1,4 @@
 ### Hi there, Here is What I'm Working On!!👋
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=letsar.letsar)
 
 <img width="200px" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif"/>
 <a href="https://www.linkedin.com/in/taylan-y%C4%B1ld%C4%B1z-02225a158/">
