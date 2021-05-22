@@ -15,8 +15,8 @@
 
 - 🔭 I’m currently working on ... 
 - - [MQTT](https://github.com/taylanyildiz/Flutter-MQTT-Example-Messages)
-- [flutter_page_transition](https://github.com/taylanyildiz/flutter_page_transition)
-- [draggable_trash](https://github.com/taylanyildz/draggable_trash)
+- - [flutter_page_transition](https://github.com/taylanyildiz/flutter_page_transition)
+- - [removable_trash](https://github.com/taylanyildiz/removable_trash)
 - 🌱 I’m currently learning ... Flutter-Dart
 - 👯 I’m looking to collaborate on ... Flutter
 - 🤔 I’m looking for help with ... What I need
