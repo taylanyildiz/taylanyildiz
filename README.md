@@ -16,9 +16,9 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on ... Flutter-NodeJS-TypeScript 
-- 🌱 I’m currently learning ... Flutter-Dart-NodeJs
-- 👯 I’m looking to collaborate on ... Flutter-NodeJs
+- 🔭 I’m currently working on ... NodeJS-ReactJS 
+- 🌱 I’m currently learning ... Flutter-Dart-NodeJs-ReactJS
+- 👯 I’m looking to collaborate on ... Flutter
 - 🤔 I’m looking for help with ... What I need
 - 💬 Ask me about ... Flutter-Java-Android Studio-STM32-JS
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/taylan-yıldız-02225a158)
