@@ -16,14 +16,11 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on ... NodeJS-ReactJS 
-- 🌱 I’m currently learning ... Flutter-Dart-NodeJs-ReactJS
-- 👯 I’m looking to collaborate on ... Flutter
+- 🔭 I’m currently working on ... NodeJS-ReactJS-Flutter 
+- 🌱 I’m currently learning ... Docker
 - 🤔 I’m looking for help with ... What I need
-- 💬 Ask me about ... Flutter-Java-Android Studio-STM32-JS
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/taylan-yıldız-02225a158)
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... not now
 
 
 **Languages and Tools:**  
