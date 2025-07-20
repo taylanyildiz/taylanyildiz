@@ -16,8 +16,8 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on ... NodeJS-ReactJS-Flutter 
-- 🌱 I’m currently learning ... Docker
+- 🔭 I’m currently working on ... NodeJS-ReactJS-Flutter-Swift
+- 🌱 I’m currently learning ... ?
 - 🤔 I’m looking for help with ... What I need
 - 📫 How to reach me: ... [Linkedin](https://www.linkedin.com/in/taylan-yıldız-02225a158)
 - 😄 Pronouns: ... He/Him
